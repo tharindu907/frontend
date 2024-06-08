@@ -13,6 +13,7 @@
     color: #171717;
     font-size: 38px;
     font-weight: 600;
+    font: small;
 }
 .nav-menu{
     display: flex;
