@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './Offers.css'
 import exclusive_image from '../Assets/hero_2.png'
 
