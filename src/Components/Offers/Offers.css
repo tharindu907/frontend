@@ -134,11 +134,11 @@
         max-width: 79%;
     }
 }
-@media (max-width: 800px) {
+@media (max-width: 500px) {
     .offers {
         width: 65%;
-        height: 35vh;
-        padding: 0px 60px;
+        height: 30vh;
+        padding: 0px 50px;
     }
     .offers-left h1 {
         font-size: 23px;
@@ -156,6 +156,6 @@
         border-radius: 8px;
     }
     .offers-img {
-        max-width: 85%;
+        max-width: 96%;
     }
 }
